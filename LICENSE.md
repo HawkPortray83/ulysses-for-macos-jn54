@@ -1,4 +1,4 @@
-#  
+#  Enhance Ulysses for macOS with Ulysses for macOS automatic Plugin - offline access and auto-sync, the #1 plugin. Includes offline access and auto-sync for a smoother experience.
 
 
 
